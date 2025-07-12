@@ -9,6 +9,11 @@ wheels/
 # Virtual environments
 .venv
 
+# Kaggle datasets
+input/
+output/
+kaggle_evaluation/
+
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
