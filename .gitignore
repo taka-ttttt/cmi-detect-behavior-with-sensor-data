@@ -12,6 +12,7 @@ wheels/
 # Kaggle datasets
 input/
 output/
+models/
 kaggle_evaluation/
 
 # Jupyter notebook checkpoints
